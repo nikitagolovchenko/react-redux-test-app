@@ -1,1 +1,1 @@
-практика react-redux-hooks-router-uuid
+практика react-redux-hooks-router-thunk-uuid
